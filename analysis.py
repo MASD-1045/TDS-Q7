@@ -1,6 +1,5 @@
-import os, sys
+import os
+import sys
 
-unused_variable = 123
-
-x=10
-print( x )
+x = 10
+print(x)
